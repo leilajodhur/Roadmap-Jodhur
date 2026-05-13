@@ -6,6 +6,14 @@
 
 **Budget outils** : 0€/mois en SaaS (stack gratuit) — coûts ponctuels uniquement (PR shipments, photos optionnel)
 
+**📂 Repo GitHub** : [github.com/leilajodhur/Roadmap-Jodhur](https://github.com/leilajodhur/Roadmap-Jodhur)
+
+## 🔄 Workflow de mise à jour
+
+- **Claude (moi)** : commit automatique après chaque tâche terminée — change `⬜` en `✅` + push GitHub
+- **Toi (Siham)** : éditer directement sur GitHub (clic sur ✏️ en haut à droite du fichier) → remplacer `⬜` par `✅` → "Commit changes"
+  - Alternative locale : éditer le fichier + `git add . && git commit -m "✅ tâche X faite" && git push`
+
 ---
 
 ## 📜 Convention de lecture
