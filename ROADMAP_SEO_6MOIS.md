@@ -171,11 +171,20 @@
   - ⏱️ 1h
   - 🎯 +CTR Google + meilleure pertinence
 
-- [ ] **Audit duplicate content + 404**
+- [x] **Audit duplicate content + 404** ✅ (13 mai)
   - Mission : crawl complet site, détecter pages dupliquées et liens cassés
-  - Livrable : `reports/duplicate_404_audit.md`
+  - Livrable : [`reports/audit_w2_duplicate_404.md`](reports/audit_w2_duplicate_404.md)
   - ⏱️ 30 min
   - 🎯 Éviter pénalités Google
+  - **Résultat** : 0 lien cassé dans collections ✅ / 0 duplicate SEO ✅ / **1 issue critique** : page Mentions Légales 404 → obligation légale 🔴
+
+### 👤 Toi — Actions critiques nouvelles (issues de l'audit)
+
+- [ ] **🔴 Créer page "Mentions Légales"** (15 min, obligation légale FR/MA)
+  - Mission : page `/policies/legal-notice` ou `/pages/mentions-legales`
+  - Contenu : raison sociale, RC, ICE, IF, CNSS, siège, hébergeur, DPO, RGPD
+  - Si besoin, je génère un template complet conforme FR + MA
+  - 🎯 Conformité légale (amende jusqu'à 75 000€ EU LCEN)
 
 ### 👤 Toi — Setup secondaire (1h)
 
