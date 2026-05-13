@@ -137,11 +137,18 @@
   - ⏱️ 15 min
   - 🎯 Trafic Google Images + accessibilité
 
-- [x] **Briefs 30 articles long-tail** ✅ (13 mai)
+- [x] **Briefs 30 articles long-tail FR** ✅ (13 mai)
   - Mission : générer 30 briefs détaillés (titre, intro, structure H1-H6, keywords cibles, FAQ, internal links)
   - Livrable : [`briefs/30_articles_briefs.md`](briefs/30_articles_briefs.md) (4 clusters : Cheveux 8, Peau 8, Hammam 6, Ingrédients 8)
   - ⏱️ 1h
   - 🎯 Pipeline content prêt pour Mois 2
+
+- [x] **Briefs 30 articles long-tail AR (parallèles)** ✅ (13 mai)
+  - Mission : 30 briefs en arabe en miroir des FR (hreflang propre)
+  - Livrable : [`briefs/30_articles_briefs_AR.md`](briefs/30_articles_briefs_AR.md) (mêmes 4 clusters)
+  - ⏱️ 1h
+  - 🎯 Capture marché MENA + Maroc AR (signaux GSC : top queries en arabe)
+  - 📊 Stratégie : 60 articles publiés au total Mois 2 (30 FR + 30 AR)
 
 - [x] **Génération 30 contacts presse + emails personnalisés** ✅ (13 mai)
   - Mission : créer un fichier avec 30 journalistes ciblés FR/MA + angles + templates emails FR/EN + méthode trouver emails
@@ -205,16 +212,21 @@
 
 ## Production de masse
 
-### 🤖 Moi — Génération + push auto
+### 🤖 Moi — Génération + push auto (60 articles FR + AR)
 
-- [ ] **Génération 30 articles complets** (drafts validés par toi)
+- [ ] **Génération 30 articles FR complets** (drafts validés par toi)
   - Mission : pour chaque brief validé, produire article complet (1500-2500 mots), images, Schema HowTo + FAQPage
   - ⏱️ 1h/article = 30h spread sur 2 sem
-  - 🎯 Base content authority sur 30 long-tail keywords
+  - 🎯 Base content authority sur 30 long-tail keywords FR
 
-- [ ] **Auto-scheduling Shopify** : `publishedAt` = J+1 à J+30
-  - Mission : programmer la publication automatique 1 article/jour pendant 30 jours
-  - 🎯 Google adore le "consistent publishing schedule"
+- [ ] **Génération 30 articles AR complets** (parallèles aux FR)
+  - Mission : versions arabes pour chaque article FR (hreflang propre)
+  - ⏱️ 45 min/article = 22h spread sur 2 sem
+  - 🎯 Capture marché MENA + Maroc AR — top queries GSC déjà en arabe
+
+- [ ] **Auto-scheduling Shopify** : `publishedAt` = J+1 à J+30 (2 articles/jour : 1 FR + 1 AR)
+  - Mission : programmer la publication automatique 2 articles/jour pendant 30 jours
+  - 🎯 Google adore le "consistent publishing schedule" + signal multilingue
 
 - [ ] **4 topic clusters / pillar pages**
   - Mission : créer 4 pages pillar qui chapeautent les articles
@@ -230,10 +242,9 @@
   - ⏱️ 2h
   - 🎯 PageRank distribution + UX exploration
 
-- [ ] **Traduction AR de 10 top-articles** (signal AR fort dans GSC)
-  - Mission : traductions SEO-optimisées (pas Google Translate brut)
-  - ⏱️ 5h
-  - 🎯 Capture du marché arabophone Maroc/MENA
+- [x] **Versions AR des 30 nouveaux articles** ✅ (intégré dans génération AR ci-dessus)
+  - Mission : remplacé par génération directe de 30 articles AR en parallèle (mieux que traduction)
+  - Bénéfice : contenu AR natif optimisé pour queries AR-specific (pas juste traduction brute)
 
 ### 👤 Toi — Validation + visuels (15h spread sur 4 sem)
 
@@ -259,11 +270,12 @@
 
 ## 📊 KPI fin Mois 2
 
-- [ ] 50+ articles indexés
-- [ ] 200+ keywords positionnés (positions 11-100)
-- [ ] Trafic organique : 500-1000 visites/mois
+- [ ] 60+ articles indexés (30 FR + 30 AR)
+- [ ] 400+ keywords positionnés (positions 11-100) — boost par marché AR
+- [ ] Trafic organique : 700-1500 visites/mois
 - [ ] 1ère apparition AI Overviews sur 2-3 requêtes ultra-niche
 - [ ] 20+ avis Loox affichés sur produits
+- [ ] Trafic AR/MENA mesurable (>10% du total)
 
 ---
 
