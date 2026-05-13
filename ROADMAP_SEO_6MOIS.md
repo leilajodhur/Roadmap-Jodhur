@@ -125,27 +125,27 @@
 
 ### 🤖 Moi — Actions auto (sans risque)
 
-- [ ] **Request indexing GSC sur 15 URLs critiques**
+- [x] **Request indexing GSC sur 15 URLs critiques** ✅ (13 mai)
   - Mission : générer la liste précise des URLs à pousser manuellement dans GSC
-  - Livrable : fichier `data/gsc_urls_priority.txt`
+  - Livrable : [`data/gsc_urls_priority.md`](data/gsc_urls_priority.md)
   - ⏱️ 5 min
   - 🎯 Accélère indexation de 4-6 sem à 3-7 jours
 
-- [ ] **Audit alt texts produits non-optimisés**
+- [x] **Audit alt texts produits non-optimisés** ✅ (13 mai)
   - Mission : lister les images avec alt génériques sur les ~110 produits restants
-  - Livrable : fichier `reports/alt_text_audit.csv`
+  - Livrable : [`reports/alt_text_audit.csv`](reports/alt_text_audit.csv) (25 produits à corriger sur 50 audités)
   - ⏱️ 15 min
   - 🎯 Trafic Google Images + accessibilité
 
-- [ ] **Briefs 30 articles long-tail**
+- [x] **Briefs 30 articles long-tail** ✅ (13 mai)
   - Mission : générer 30 briefs détaillés (titre, intro, structure H1-H6, keywords cibles, FAQ, internal links)
-  - Livrable : 30 fichiers `briefs/article-XX.md`
+  - Livrable : [`briefs/30_articles_briefs.md`](briefs/30_articles_briefs.md) (4 clusters : Cheveux 8, Peau 8, Hammam 6, Ingrédients 8)
   - ⏱️ 1h
   - 🎯 Pipeline content prêt pour Mois 2
 
-- [ ] **Génération 30 contacts presse + emails personnalisés**
-  - Mission : créer un CSV avec 30 journalistes ciblés FR/MA + angle personnalisé + template email
-  - Livrable : fichier `data/pr_outreach_30_contacts.csv`
+- [x] **Génération 30 contacts presse + emails personnalisés** ✅ (13 mai)
+  - Mission : créer un fichier avec 30 journalistes ciblés FR/MA + angles + templates emails FR/EN + méthode trouver emails
+  - Livrable : [`data/pr_outreach_30_contacts.md`](data/pr_outreach_30_contacts.md) (15 MA + 15 FR + 4 angles + 2 templates + planning)
   - ⏱️ 1h
   - 🎯 Préparer la campagne PR Mois 3
 
