@@ -87,17 +87,15 @@
 
 ### 👤 Toi — Actions critiques (45 min total)
 
-- [x] **Publier le thème `v.5 + Leila pivot IA disclosed — 13 mai`**
+- [x] **Publier le thème `v.5 + Leila pivot IA disclosed — 13 mai`** ✅ (13 mai)
   - Mission : activer le pivot Leila (Service au lieu de Person)
-  - Où : Shopify Admin → Online Store → Themes → ⋯ → Publish
-  - ⏱️ 5 min
-  - 🎯 Critique légal (EU AI Act + Google E-E-A-T)
+  - Confirmé live : themeId 161725153337 active + Schema Service détecté + founder retiré
+  - 🎯 Critique légal (EU AI Act + Google E-E-A-T) — DONE
 
-- [x] **Installer Microsoft Clarity** (gratuit illimité)
+- [x] **Installer Microsoft Clarity** (gratuit illimité) ✅ (13 mai)
   - Mission : analytics heatmaps + session recordings
-  - Où : clarity.microsoft.com → créer projet → coller script dans theme.liquid
-  - ⏱️ 5 min
-  - 🎯 Comprendre comportement réel utilisateurs pré-ads
+  - Confirmé live : clarity.ms script détecté dans HTML
+  - 🎯 Comprendre comportement réel utilisateurs pré-ads — DONE
 
 - [x] **Bing Webmaster Tools**
   - Mission : indexation Bing/Yahoo + Copilot AI Overviews
