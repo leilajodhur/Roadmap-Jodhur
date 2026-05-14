@@ -178,7 +178,7 @@
 
 ### 👤 Toi — Actions critiques nouvelles (issues de l'audit)
 
-- [ ] **🔴 Créer page "Mentions Légales"** (15 min, obligation légale FR/MA)
+- [x] **🔴 Créer page "Mentions Légales"** (15 min, obligation légale FR/MA)
   - Mission : page `/policies/legal-notice` ou `/pages/mentions-legales`
   - Contenu : raison sociale, RC, ICE, IF, CNSS, siège, hébergeur, DPO, RGPD
   - Si besoin, je génère un template complet conforme FR + MA
