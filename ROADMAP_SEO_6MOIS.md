@@ -221,6 +221,14 @@
 
 ### 🤖 Moi — Génération + push auto (60 articles FR + AR)
 
+- [x] **Template article validé** ✅ (13 mai 2026)
+  - Article référence live : [Comment faire pousser cheveux plus vite](https://jodhur.ma/blogs/news/comment-faire-pousser-cheveux-plus-vite-naturellement)
+  - Spec figée : [`briefs/TEMPLATE_ARTICLE_FINAL.md`](briefs/TEMPLATE_ARTICLE_FINAL.md)
+  - Montserrat + min 1.6rem + palette Jodhur stricte
+  - 18 widgets metafields remplis (Fiche Express, FAQ, Recette, Produits, Leila)
+  - Schema HowTo + FAQPage actifs
+  - 7 emplacements visuels (4 Canva + 3 photos smartphone)
+
 - [ ] **Génération 30 articles FR complets** (drafts validés par toi)
   - Mission : pour chaque brief validé, produire article complet (1500-2500 mots), images, Schema HowTo + FAQPage
   - ⏱️ 1h/article = 30h spread sur 2 sem
