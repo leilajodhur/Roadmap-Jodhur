@@ -1,0 +1,170 @@
+{
+  "total": 50,
+  "duplicates_titles": 0,
+  "duplicates_descs": 0,
+  "all_caps": [],
+  "short_metas": [
+    {
+      "handle": "apres-shampoing-lavande",
+      "desc": "Après-shampoing à la lavande sans sulfate. Revitalise, protège la couleur, parfum apaisant. Rouh Ennabta. Livraison Maroc.",
+      "len": 122
+    },
+    {
+      "handle": "baume-a-levre-roule-taj-safouane",
+      "desc": "Baume lèvres roulé artisanal marocain. Hydratation longue durée, format pratique. Sans additifs. Coopérative Taj Safouane.",
+      "len": 122
+    },
+    {
+      "handle": "baume-a-levre-taj-safouane",
+      "desc": "Baume lèvres artisanal marocain. Texture fondante, réparation intense, protection. Sans chimique. Coopérative Taj Safouane.",
+      "len": 123
+    },
+    {
+      "handle": "baume-levres-cannelle",
+      "desc": "Baume à lèvres à la cannelle. Effet repulpant naturel, hydrate et protège. Rouh Ennabta. Livraison Maroc.",
+      "len": 105
+    },
+    {
+      "handle": "baume-levres-rose-femmes-dades",
+      "desc": "Baume à lèvres artisanal à la rose de la Vallée des Roses. Hydrate, protège, répare. Coopérative Femmes Dadès.",
+      "len": 110
+    },
+    {
+      "handle": "baume-levres-rose-rosa-damaskina",
+      "desc": "Baume à lèvres à la rose de Rosa Damaskina. Hydrate, nourrit, légère teinte rosée. Douceur naturelle Vallée des Roses.",
+      "len": 118
+    },
+    {
+      "handle": "baume-levres-aker-fassi-rosa-damaskina",
+      "desc": "Baume à lèvres teinté à l'Aker Fassi de Rosa Damaskina. Hydrate et colore naturellement. Pigment traditionnel marocain.",
+      "len": 119
+    },
+    {
+      "handle": "creme-rose-rosa-damaskina",
+      "desc": "Crème à la rose de Rosa Damaskina. Hydrate, régénère, anti-âge naturel. Tous types de peaux. Kelaa M'Gouna.",
+      "len": 107
+    },
+    {
+      "handle": "creme-rose-femmes-dades",
+      "desc": "Crème de rose de la Vallée des Roses. Apaisante, hydratante, confort. Coopérative Femmes Dadès Tinghir.",
+      "len": 103
+    },
+    {
+      "handle": "creme-mains-hydratante-argan-taj-safouane",
+      "desc": "Crème mains hydratante à l'huile d'argan. Nourrit, répare, protège. Certifié DMP. Taj Safouane Khouribga.",
+      "len": 105
+    },
+    {
+      "handle": "creme-sinamorflor-chauffante-moringina",
+      "desc": "Crème Sinamorflor à la graisse de chameau et moringa. Soulage muscles et articulations, hydrate intensément. 100% naturel, Maroc.",
+      "len": 129
+    },
+    {
+      "handle": "eau-rose-bio-femmes-dades",
+      "desc": "Eau de rose bio 100% Rosa Damascena de la Vallée des Roses. Tonique, apaisant, multi-usage. Certifiée bio Terroir du Maroc.",
+      "len": 123
+    },
+    {
+      "handle": "eau-florale-rose-bio-spray-rosa-damaskina",
+      "desc": "Eau florale de rose bio 100% Rosa Damascena de Kelaa M'Gouna. Tonique, apaisant, multi-usage. Format spray certifié CCPB.",
+      "len": 121
+    },
+    {
+      "handle": "eau-florale-rose-bio-bouteille-rosa-damaskina",
+      "desc": "Eau florale de rose bio 100% Rosa Damascena format bouteille verre. Grand format économique. Certifié CCPB ONSSA.",
+      "len": 113
+    },
+    {
+      "handle": "feuilles-moringa-sechees-moringina",
+      "desc": "Feuilles de moringa séchées 100% bio du Maroc. Infusion riche en nutriments, vitamines et antioxydants. Commander sur JODHUR.",
+      "len": 125
+    }
+  ],
+  "long_metas": [
+    {
+      "handle": "baume-3-en-1-bio-apaisant-maroc",
+      "len": 166
+    },
+    {
+      "handle": "coffret-volume-legerete",
+      "len": 167
+    },
+    {
+      "handle": "coffret-hammam-royal",
+      "len": 169
+    },
+    {
+      "handle": "coffret-sos-peaux-sensibles-reactives",
+      "len": 168
+    },
+    {
+      "handle": "eau-fleurs-oranger-bio-tonique-maroc",
+      "len": 166
+    },
+    {
+      "handle": "eau-rose-damas-bio-tonique-eclat-maroc",
+      "len": 167
+    },
+    {
+      "handle": "herbes-the-bio-detox-beaute-maroc",
+      "len": 169
+    }
+  ],
+  "no_maroc": [
+    "baume-levres-rose-femmes-dades",
+    "baume-levres-rose-rosa-damaskina",
+    "pack-choc-stimulant-fortifiant",
+    "creme-rose-rosa-damaskina",
+    "creme-rose-femmes-dades",
+    "creme-mains-hydratante-argan-taj-safouane",
+    "eau-florale-rose-bio-spray-rosa-damaskina",
+    "eau-florale-rose-bio-bouteille-rosa-damaskina"
+  ],
+  "no_livraison": [
+    "baume-a-levre-roule-taj-safouane",
+    "baume-a-levre-taj-safouane",
+    "baume-levres-rose-femmes-dades",
+    "baume-levres-rose-rosa-damaskina",
+    "baume-levres-aker-fassi-rosa-damaskina",
+    "blush-cosmetique-artisanal-taj-safouane",
+    "capsules-moringa-bio-moringina",
+    "pack-choc-stimulant-fortifiant",
+    "creme-rose-rosa-damaskina",
+    "creme-rose-femmes-dades",
+    "creme-mains-hydratante-argan-taj-safouane",
+    "creme-sinamorflor-chauffante-moringina",
+    "eau-rose-bio-femmes-dades",
+    "eau-distillee-moringa-moringina",
+    "eau-florale-rose-bio-spray-rosa-damaskina",
+    "eau-florale-rose-bio-bouteille-rosa-damaskina",
+    "feuilles-moringa-sechees-moringina",
+    "gel-douche-corps-moringa-vanille-moringina",
+    "gommage-nourrissant-moringa-moringina"
+  ],
+  "no_brand_title": [
+    "apres-shampoing-lavande",
+    "baume-levres-cannelle",
+    "baume-levres-rose-femmes-dades",
+    "baume-levres-rose-rosa-damaskina",
+    "baume-levres-aker-fassi-rosa-damaskina",
+    "creme-rose-rosa-damaskina",
+    "creme-anti-age-figue-barbarie",
+    "creme-rose-femmes-dades",
+    "creme-hydratante-lavande",
+    "creme-mains-hydratante-argan-taj-safouane",
+    "creme-royale-rose",
+    "creme-soin-complet-argan",
+    "eau-rose-bio-femmes-dades",
+    "eau-florale-rose-bio-spray-rosa-damaskina",
+    "eau-florale-rose-bio-bouteille-rosa-damaskina",
+    "gommage-argan-lavande",
+    "gommage-grains-cafe"
+  ],
+  "long_titles": [
+    {
+      "handle": "coffret-sos-demangeaisons-pellicules",
+      "len": 66,
+      "title": "Coffret SOS Démangeaisons & Pellicules Bio | Cuir Chevelu | JODHUR"
+    }
+  ]
+}
