@@ -87,37 +87,37 @@
 
 ### 👤 Toi — Actions critiques (45 min total)
 
-- [ ] **Publier le thème `v.5 + Leila pivot IA disclosed — 13 mai`**
+- [x] **Publier le thème `v.5 + Leila pivot IA disclosed — 13 mai`**
   - Mission : activer le pivot Leila (Service au lieu de Person)
   - Où : Shopify Admin → Online Store → Themes → ⋯ → Publish
   - ⏱️ 5 min
   - 🎯 Critique légal (EU AI Act + Google E-E-A-T)
 
-- [ ] **Installer Microsoft Clarity** (gratuit illimité)
+- [x] **Installer Microsoft Clarity** (gratuit illimité)
   - Mission : analytics heatmaps + session recordings
   - Où : clarity.microsoft.com → créer projet → coller script dans theme.liquid
   - ⏱️ 5 min
   - 🎯 Comprendre comportement réel utilisateurs pré-ads
 
-- [ ] **Bing Webmaster Tools**
+- [x] **Bing Webmaster Tools**
   - Mission : indexation Bing/Yahoo + Copilot AI Overviews
   - Où : bing.com/webmasters → Import depuis GSC (1 clic)
   - ⏱️ 10 min
   - 🎯 5-8% de marché FR + données backlinks gratuites
 
-- [ ] **Google Business Profile "JODHUR Casablanca"**
+- [x] **Google Business Profile "JODHUR Casablanca"**
   - Mission : SEO local Maroc + Google Maps + Knowledge Panel
   - Où : google.com/business
   - ⏱️ 15 min (validation par carte 5-10 jours)
   - 🎯 Indispensable pour ranker en local
 
-- [ ] **HARO / Connectively inscription**
+- [x] **HARO / Connectively inscription**
   - Mission : recevoir 3 emails/jour avec demandes journalistes
   - Où : connectively.us
   - ⏱️ 5 min
   - 🎯 Backlinks DR 70+ gratuits (jackpot SEO)
 
-- [ ] **Ahrefs Webmaster Tools FREE**
+- [x] **Ahrefs Webmaster Tools FREE**
   - Mission : voir tes backlinks + top keywords + audit SEO
   - Où : ahrefs.com/webmaster-tools → vérifier ownership via GSC
   - ⏱️ 5 min
